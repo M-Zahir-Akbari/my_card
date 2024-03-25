@@ -16,7 +16,8 @@ This is a Flutter application called MyCard, which showcases personal informatio
 
 Here are some screenshots of the MyCard application:
 
-![Screenshot 1][1]
+![sample](https://github.com/M-Zahir-Akbari/my_card/assets/112478015/153d420a-e4c9-412a-9be6-57fea13dc88b)
+
 
 ## Getting Started
 
