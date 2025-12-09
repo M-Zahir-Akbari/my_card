@@ -37,7 +37,7 @@ class ShowMyCard extends StatelessWidget {
                 backgroundImage: AssetImage('images/m.jpg'),
               ),
               const Text(
-                'M. Zahir Akbari',
+                'Mohammad Zahir Akbari',
                 style: TextStyle(
                     fontSize: 30,
                     color: Colors.white,
